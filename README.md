@@ -1,2 +1,2 @@
 # ZabbixGoaccess
-Monitorando Goaccess no Zabbix
+Monitoring Goaccess on Zabbix
